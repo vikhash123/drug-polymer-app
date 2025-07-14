@@ -1,0 +1,76 @@
+Drug,LogP,MW,Polymer,Ratio,Method,pH,% Release,Compatible
+Ibuprofen,3.5,206.0,HPMC,1:1,Melt,6.8,85.9,Yes
+Ibuprofen,3.5,206.0,HPMC,1:2,Solvent,4.5,93.26,Yes
+Ibuprofen,3.5,206.0,HPMC,1:3,Solvent,1.2,69.33,No
+Ibuprofen,3.5,206.0,PVP K30,1:1,Solvent,6.8,93.32,Yes
+Ibuprofen,3.5,206.0,PVP K30,1:2,Solvent,4.5,84.12,Yes
+Ibuprofen,3.5,206.0,PVP K30,1:3,Solvent,6.8,90.43,Yes
+Ibuprofen,3.5,206.0,EC,1:1,Solvent,6.8,89.46,Yes
+Ibuprofen,3.5,206.0,EC,1:2,Melt,1.2,93.7,Yes
+Ibuprofen,3.5,206.0,EC,1:3,Solvent,1.2,62.7,No
+Ibuprofen,3.5,206.0,PEG 6000,1:1,Melt,6.8,64.31,No
+Ibuprofen,3.5,206.0,PEG 6000,1:2,Solvent,4.5,86.06,Yes
+Ibuprofen,3.5,206.0,PEG 6000,1:3,Melt,4.5,87.97,Yes
+Ibuprofen,3.5,206.0,Eudragit RS100,1:1,Solvent,6.8,63.68,No
+Ibuprofen,3.5,206.0,Eudragit RS100,1:2,Melt,6.8,77.27,Yes
+Ibuprofen,3.5,206.0,Eudragit RS100,1:3,Solvent,6.8,78.29,Yes
+Paracetamol,0.46,151.2,HPMC,1:1,Melt,4.5,60.43,No
+Paracetamol,0.46,151.2,HPMC,1:2,Melt,4.5,92.2,Yes
+Paracetamol,0.46,151.2,HPMC,1:3,Melt,1.2,70.29,No
+Paracetamol,0.46,151.2,PVP K30,1:1,Solvent,6.8,74.21,No
+Paracetamol,0.46,151.2,PVP K30,1:2,Melt,4.5,74.29,No
+Paracetamol,0.46,151.2,PVP K30,1:3,Solvent,1.2,84.65,Yes
+Paracetamol,0.46,151.2,EC,1:1,Solvent,4.5,81.25,Yes
+Paracetamol,0.46,151.2,EC,1:2,Solvent,1.2,73.84,No
+Paracetamol,0.46,151.2,EC,1:3,Melt,6.8,72.59,No
+Paracetamol,0.46,151.2,PEG 6000,1:1,Melt,1.2,86.71,Yes
+Paracetamol,0.46,151.2,PEG 6000,1:2,Melt,6.8,60.58,No
+Paracetamol,0.46,151.2,PEG 6000,1:3,Melt,6.8,68.73,No
+Paracetamol,0.46,151.2,Eudragit RS100,1:1,Melt,4.5,94.77,Yes
+Paracetamol,0.46,151.2,Eudragit RS100,1:2,Solvent,6.8,90.31,Yes
+Paracetamol,0.46,151.2,Eudragit RS100,1:3,Solvent,6.8,69.63,No
+Metformin,-1.4,129.2,HPMC,1:1,Melt,1.2,93.62,Yes
+Metformin,-1.4,129.2,HPMC,1:2,Melt,1.2,60.77,No
+Metformin,-1.4,129.2,HPMC,1:3,Solvent,4.5,73.96,No
+Metformin,-1.4,129.2,PVP K30,1:1,Melt,1.2,77.54,Yes
+Metformin,-1.4,129.2,PVP K30,1:2,Melt,4.5,66.8,No
+Metformin,-1.4,129.2,PVP K30,1:3,Solvent,1.2,70.38,No
+Metformin,-1.4,129.2,EC,1:1,Melt,1.2,91.62,Yes
+Metformin,-1.4,129.2,EC,1:2,Melt,6.8,90.92,Yes
+Metformin,-1.4,129.2,EC,1:3,Melt,4.5,76.6,Yes
+Metformin,-1.4,129.2,PEG 6000,1:1,Solvent,6.8,61.63,No
+Metformin,-1.4,129.2,PEG 6000,1:2,Solvent,4.5,76.02,Yes
+Metformin,-1.4,129.2,PEG 6000,1:3,Solvent,4.5,70.16,No
+Metformin,-1.4,129.2,Eudragit RS100,1:1,Solvent,1.2,67.77,No
+Metformin,-1.4,129.2,Eudragit RS100,1:2,Melt,4.5,87.13,Yes
+Metformin,-1.4,129.2,Eudragit RS100,1:3,Melt,1.2,61.87,No
+Curcumin,3.2,368.4,HPMC,1:1,Melt,4.5,62.9,No
+Curcumin,3.2,368.4,HPMC,1:2,Solvent,6.8,75.36,Yes
+Curcumin,3.2,368.4,HPMC,1:3,Melt,1.2,69.24,No
+Curcumin,3.2,368.4,PVP K30,1:1,Solvent,1.2,63.44,No
+Curcumin,3.2,368.4,PVP K30,1:2,Solvent,1.2,67.42,No
+Curcumin,3.2,368.4,PVP K30,1:3,Melt,6.8,72.68,No
+Curcumin,3.2,368.4,EC,1:1,Solvent,6.8,68.31,No
+Curcumin,3.2,368.4,EC,1:2,Melt,6.8,75.5,Yes
+Curcumin,3.2,368.4,EC,1:3,Solvent,1.2,83.82,Yes
+Curcumin,3.2,368.4,PEG 6000,1:1,Solvent,1.2,67.41,No
+Curcumin,3.2,368.4,PEG 6000,1:2,Melt,6.8,89.12,Yes
+Curcumin,3.2,368.4,PEG 6000,1:3,Melt,1.2,78.6,Yes
+Curcumin,3.2,368.4,Eudragit RS100,1:1,Melt,6.8,91.72,Yes
+Curcumin,3.2,368.4,Eudragit RS100,1:2,Solvent,6.8,71.06,No
+Curcumin,3.2,368.4,Eudragit RS100,1:3,Melt,1.2,84.48,Yes
+Ketoconazole,4.3,531.4,HPMC,1:1,Solvent,6.8,76.03,Yes
+Ketoconazole,4.3,531.4,HPMC,1:2,Melt,4.5,84.34,Yes
+Ketoconazole,4.3,531.4,HPMC,1:3,Solvent,6.8,67.54,No
+Ketoconazole,4.3,531.4,PVP K30,1:1,Melt,4.5,88.98,Yes
+Ketoconazole,4.3,531.4,PVP K30,1:2,Solvent,6.8,61.67,No
+Ketoconazole,4.3,531.4,PVP K30,1:3,Melt,4.5,88.6,Yes
+Ketoconazole,4.3,531.4,EC,1:1,Solvent,6.8,92.65,Yes
+Ketoconazole,4.3,531.4,EC,1:2,Melt,1.2,93.25,Yes
+Ketoconazole,4.3,531.4,EC,1:3,Solvent,6.8,73.48,No
+Ketoconazole,4.3,531.4,PEG 6000,1:1,Melt,4.5,89.62,Yes
+Ketoconazole,4.3,531.4,PEG 6000,1:2,Solvent,6.8,76.48,Yes
+Ketoconazole,4.3,531.4,PEG 6000,1:3,Solvent,1.2,72.06,No
+Ketoconazole,4.3,531.4,Eudragit RS100,1:1,Melt,6.8,84.03,Yes
+Ketoconazole,4.3,531.4,Eudragit RS100,1:2,Melt,1.2,66.0,No
+Ketoconazole,4.3,531.4,Eudragit RS100,1:3,Solvent,6.8,84.63,Yes
